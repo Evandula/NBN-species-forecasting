@@ -45,13 +45,15 @@ To download the data without a github account, click the code box dropdown and d
 
 ## How to Win!
 
-Contest participants are required to develop a modelling algorithm to forecast species occurrence within a target UK region in 2026 for 9 species. An example modelling pipeline is provided in the repository to guide development. An example report and submission template has also been provided. 
+Contest participants are required to develop a modelling algorithm to forecast species occurrence within a target UK region in 2026 for 9 species. Participants can choose a given target region for each species. An example modelling pipeline is provided in the repository to guide development. An example report and submission template has also been provided. 
 
 Awards will be given across three categories:
 
-1. The team with the most accurate forecast across all 9 species, as measured by Root Mean Squared Error.  
+1. The team with the most accurate model at forecasting species occurrences in a given target region, as measured by RMSE averaged across all 9 species.  
 
-2. The team with the most interesting report.
+2. The team with the most accurate model at forecasting species occurrences in a given target year, as measured by RMSE averaged across all 9 species.  
+
+3. The team with the most accurate model at forecasting species occurrences in a given target region and year, as measured by RMSE averaged across all 9 species.  
 
 The winners will be selected by the SPHERE-PPL Team and will be invited to present their forecasts at the next Annual Meeting.
 
