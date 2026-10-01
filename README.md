@@ -57,6 +57,7 @@ Awards will be given across three categories:
 
 The winners will be selected by the SPHERE-PPL Team and will be invited to present their forecasts at the next Annual Meeting.
 
+Please calculate and report the RMSE for each of the nine species individually, as well as the mean RMSE ± standard deviation (SD) across all nine species. Treat each species equally when calculating the aggregate statistics.
 
 ## How to Submit
 
