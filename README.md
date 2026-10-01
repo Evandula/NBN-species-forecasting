@@ -45,7 +45,7 @@ To download the data without a github account, click the code box dropdown and d
 
 ## How to Win!
 
-Contest participants are required to develop a modelling algorithm to forecast species occurrence within a target UK region in 2026 for 9 species. Participants can choose a given target region for each species. An example modelling pipeline is provided in the repository to guide development. An example report and submission template has also been provided. 
+Contest participants are required to develop a modelling algorithm to forecast species occurrence within a target UK region in 2026 for 9 species. Participants can choose a given target region for each species. An example modelling pipeline is provided in the repository to guide development. Please also refer to the SPHERE-PPL PGLMM workshop as an example modelling approach (https://github.com/willpearse/stancon-2024-pglmm). An example report and submission template has also been provided. 
 
 Awards will be given across three categories:
 
@@ -57,6 +57,7 @@ Awards will be given across three categories:
 
 The winners will be selected by the SPHERE-PPL Team and will be invited to present their forecasts at the next Annual Meeting.
 
+Please calculate and report the RMSE for each of the nine species individually, as well as the mean RMSE ± standard deviation (SD) across all nine species. Treat each species equally when calculating the aggregate statistics.
 
 ## How to Submit
 
