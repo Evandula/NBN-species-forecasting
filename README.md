@@ -45,7 +45,20 @@ To download the data without a github account, click the code box dropdown and d
 
 ## How to Win!
 
-Contest participants are required to develop a modelling algorithm to forecast species occurrence within a target UK region in 2026 for 9 species. Participants can choose a given target region for each species. An example modelling pipeline is provided in the repository to guide development. Please also refer to the SPHERE-PPL PGLMM workshop as an example modelling approach (https://github.com/willpearse/stancon-2024-pglmm). An example report and submission template has also been provided. 
+Contest participants are required to develop a modelling algorithm to forecast species occurrence within a target UK region in 2026 for 9 species. Species target regions are summarised in a table below. An example modelling pipeline is provided in the repository to guide development. Please also refer to the SPHERE-PPL PGLMM workshop as an example modelling approach (https://github.com/willpearse/stancon-2024-pglmm). An example report and submission template has also been provided. 
+
+| Species                     | Region     |
+| --------------------------- | ---------- |
+| `Euplagia_quadripunctaria`  | South East |
+| `Fratercula_arctica`        | South East |
+| `Haliaeetus_albicilla`      | South East |
+| `Lutra_lutra`               | South East |
+| `Pandion_haliaetus`         | Scotland   |
+| `Pipistrellus_pipistrellus` | South East |
+| `Sciurus_vulgaris`          | South East |
+| `Triturus_cristatus`        | South East |
+| `Vipera_berus`              | South East |
+
 
 Awards will be given across three categories:
 
