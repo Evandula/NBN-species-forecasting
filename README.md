@@ -60,17 +60,9 @@ Contest participants are required to develop a modelling algorithm to forecast s
 | `Vipera_berus`              | South East |
 
 
-Awards will be given across three categories:
+2 prizes will be given for the best and second best model at forecasting probability of species occurrence in a given target region for 2026. Please calculate and report the binomial deviance for each of the nine species individually, as well as the mean binomial deviance across all nine species. Treat each species equally when calculating the aggregate statistics.
 
-1. The team with the most accurate model at forecasting species occurrences in a given target region, as measured by RMSE averaged across all 9 species.  
-
-2. The team with the most accurate model at forecasting species occurrences in a given target year, as measured by RMSE averaged across all 9 species.  
-
-3. The team with the most accurate model at forecasting species occurrences in a given target region and year, as measured by RMSE averaged across all 9 species.  
-
-The winners will be selected by the SPHERE-PPL Team and will be invited to present their forecasts at the next Annual Meeting.
-
-Please calculate and report the RMSE for each of the nine species individually, as well as the mean RMSE ± standard deviation (SD) across all nine species. Treat each species equally when calculating the aggregate statistics.
+The winners will be selected by the SPHERE-PPL Team and will be invited to present their forecasts at the next Annual Meeting. The SPHERE-PPL Team reserve the right to award a prize for a model that performs particularly well for one species. 
 
 ## How to Submit
 
