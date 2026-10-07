@@ -24,6 +24,8 @@ Participants are encouraged to source and include additional relevant predictor 
 
 [Soil data](https://isric.org/explore/soilgrids)
 
+Species occurrence data and the provided environmental predictors have been harmonised to a 5 km grid.
+
 
 ## Joining the contest & Getting Started
 
@@ -45,7 +47,7 @@ To download the data without a github account, click the code box dropdown and d
 
 ## How to Win!
 
-Contest participants are required to develop a modelling algorithm to forecast species occurrence within a target UK region in 2026 for 9 species. Species target regions are summarised in a table below. An example modelling pipeline is provided in the repository to guide development. Please also refer to the SPHERE-PPL PGLMM workshop as an example modelling approach (https://github.com/willpearse/stancon-2024-pglmm). An example report and submission template has also been provided. 
+Contest participants are required to develop a modelling algorithm to forecast species occurrence within a target UK region in 2026 for 9 species. Species target regions are summarised in a table below. An example modelling pipeline is provided in the repository to guide development. An example report and submission template has also been provided. 
 
 | Species                     | Region     |
 | --------------------------- | ---------- |
